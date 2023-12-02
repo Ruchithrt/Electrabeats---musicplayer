@@ -9,4 +9,4 @@
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
 
 <h1>How to Run:</h1>
-Clone the repository to your local machine:
+Clone the repository to your local machine: https://github.com/Ruchithrt/Electrabeats---musicplayer.git
