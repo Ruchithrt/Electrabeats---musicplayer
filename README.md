@@ -9,6 +9,7 @@
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
 
 <h1>Demo Video</h1>
+https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/c6d0e7bf-dd7a-4ff2-9d87-4a56c59bd270
 
 
 <h1>How to Run:</h1>
