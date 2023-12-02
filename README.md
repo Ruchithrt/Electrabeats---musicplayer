@@ -8,5 +8,8 @@
 <h3>Song Progress Bar: </h3> Track your progress through the song with a dynamic progress bar.
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
 
+<h1>Demo Video</h1>
+
+
 <h1>How to Run:</h1>
 Clone the repository to your local machine: https://github.com/Ruchithrt/Electrabeats--musicplayer.git
