@@ -7,11 +7,13 @@
 <h3>Play and Pause: </h3> Control the playback of ElectraBeats with the simple play and pause functionality.
 <h3>Song Progress Bar: </h3> Track your progress through the song with a dynamic progress bar.
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
+<br><br>
+
+<h1>Static view of the website</h1>
+
 
 <h1>Demo Video</h1>
-https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/5a0ab8a9-99bd-4943-8e4c-ce2fde4d9558
-
-
+<video src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/5a0ab8a9-99bd-4943-8e4c-ce2fde4d9558">
 
 <h1>How to Run:</h1>
 Clone the repository to your local machine: https://github.com/Ruchithrt/Electrabeats--musicplayer.git
