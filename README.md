@@ -12,13 +12,13 @@
 <h1>How to Run:</h1>
 Clone the repository to your local machine: https://github.com/Ruchithrt/Electrabeats--musicplayer.git
 <br><br>
-<h1>Static view of the website</h1>
+<h1>Static view of the website:</h1>
 <img src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/1d35966c-e176-4700-b1aa-ff4ac69f6b37">
 <img src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/41455c54-e9d6-4254-b7e6-2e243cd197a1">
 <br><br>
 
 
-<h1>Demo Video</h1>
+<h1>Demo Video:</h1>
 <video src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/1f01d026-bbc4-445b-9b69-35cbd9dec6f1">
 
 
