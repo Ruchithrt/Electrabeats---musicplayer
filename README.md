@@ -9,6 +9,8 @@
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
 <br><br>
 <hr>
+
+
 ## Installation
 1. Clone the repository: `https://github.com/Ruchithrt/Electrabeats--musicplayer.git`
 2. Navigate to the project directory: `cd Electrabeats--musicplayer`
