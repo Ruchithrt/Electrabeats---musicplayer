@@ -14,6 +14,13 @@
 2. Navigate to the project directory: `cd Electrabeats--musicplayer`<br>
 3. Open `index.html` in your preferred web browser.<br>
 <br><br>
+
+## Installation
+
+1. Clone the repository: `https://github.com/Ruchithrt/iFitness.git`
+2. Navigate to the project directory: `cd iFitness`
+3. Open `index.html` in your preferred web browser.
+
 <h1>Static view of the website:</h1>
 <img src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/1d35966c-e176-4700-b1aa-ff4ac69f6b37">
 <img src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/41455c54-e9d6-4254-b7e6-2e243cd197a1">
