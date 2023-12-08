@@ -9,16 +9,9 @@
 <h3>Song Title Display: </h3> Stay informed about the currently playing track with a prominently displayed song title.
 <br><br>
 
-<h1>How to Run:</h1>
-1. Clone the repository: `https://github.com/Ruchithrt/Electrabeats--musicplayer.git`<br>
-2. Navigate to the project directory: `cd Electrabeats--musicplayer`<br>
-3. Open `index.html` in your preferred web browser.<br>
-<br><br>
-
 ## Installation
-
-1. Clone the repository: `https://github.com/Ruchithrt/iFitness.git`
-2. Navigate to the project directory: `cd iFitness`
+1. Clone the repository: `https://github.com/Ruchithrt/Electrabeats--musicplayer.git`
+2. Navigate to the project directory: `cd Electrabeats--musicplayer`
 3. Open `index.html` in your preferred web browser.
 
 <h1>Static view of the website:</h1>
