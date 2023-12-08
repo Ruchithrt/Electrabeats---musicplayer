@@ -10,7 +10,9 @@
 <br><br>
 
 <h1>How to Run:</h1>
-Clone the repository to your local machine: https://github.com/Ruchithrt/Electrabeats--musicplayer.git
+1. Clone the repository: ` https://github.com/Ruchithrt/Electrabeats--musicplayer.git`
+2. Navigate to the project directory: `cd Electrabeats--musicplayer`
+3. Open `index.html` in your preferred web browser.
 <br><br>
 <h1>Static view of the website:</h1>
 <img src="https://github.com/Ruchithrt/Electrabeats--musicplayer/assets/83587252/1d35966c-e176-4700-b1aa-ff4ac69f6b37">
